@@ -34,3 +34,6 @@ Here I created a static website Which provides medical sevices to the patients a
 ![](Screenshots/Screenshot%20(23).png)
 ![](Screenshots/Screenshot%20(24).png)
 ![](Screenshots/Screenshot%20(25).png)
+
+##Microsoft Azure page
+![](Screenshots/Screenshot%20(26).png)
