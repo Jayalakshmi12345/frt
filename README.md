@@ -1,9 +1,9 @@
 ## Future Ready Talent project
 Here I created a static website Which provides medical sevices to the patients at ease.
 
-## My website link: https://white-coast-05628ec10.1.azurestaticapps.net
+# My website link: https://white-coast-05628ec10.1.azurestaticapps.net
 
-## Demo video link:https://youtu.be/ii4R2hkXrbM
+# Demo video link:https://youtu.be/ii4R2hkXrbM
 
 ## Home page
 ![](Screenshots/Screenshot%20(3).png)
